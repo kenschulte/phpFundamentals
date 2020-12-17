@@ -12,6 +12,7 @@ class Cat implements Animal
   }
 }
 
+
 $animal = new Cat();
 $animal->makeSound();
 ?> 
